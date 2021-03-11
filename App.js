@@ -18,13 +18,35 @@ function App() {
           component={HelloWorld} 
           options = {{
             headerStyle: {
-              backgroundColor: '#bd93f9',
+              backgroundColor: '#8be9fd',
             },
+
             headerTintColor: '#f8f8f2',
+
+            headerTitleStyle : { 
+              fontWeight : 'bold', 
+              fontSize:25,
+            },
           }}
         />
 
-        <Stack.Screen name="Start" component={Start} />
+        <Stack.Screen 
+          name="Start" 
+          component={Start} 
+          options = {{
+            headerStyle: {
+              backgroundColor: '#8be9fd',
+            },
+
+            headerTintColor: '#f8f8f2',
+
+            headerTitleStyle : { 
+              fontWeight : 'bold', 
+              fontSize:25,
+            },
+
+          }}  
+        />
 
       </Stack.Navigator>
     </NavigationContainer>
