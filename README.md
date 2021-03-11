@@ -4,5 +4,7 @@
 * O React Navigation usado foi o **`StackNavigator`**.
 * Esse projeto foi feito usando o **Expo**.
 
-![home screen image](https://github.com/gusttaa/Hello_World_React_Native/blob/master/image/home%20screen%20image.jpg)
 
+
+![](https://github.com/gusttaa/Hello_World_React_Native/blob/master/image/homeScreenImage.jpg)  |  ![](https://github.com/gusttaa/Hello_World_React_Native/blob/master/image/startScreenImage.jpg)
+:-------------------------:|:-------------------------:
