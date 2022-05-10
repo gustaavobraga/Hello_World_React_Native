@@ -6,5 +6,5 @@
 
 
 
-![](https://github.com/gusttaa/Hello_World_React_Native/blob/master/image/homeScreenImage.jpg)  |  ![](https://github.com/gusttaa/Hello_World_React_Native/blob/master/image/startScreenImage.jpg)
+![](https://github.com/gusttaa/Hello_World_React_Native/blob/master/image/startScreenImage.jpg)  |  ![](https://github.com/gusttaa/Hello_World_React_Native/blob/master/image/startScreenImage.jpg)
 :-------------------------:|:-------------------------:
